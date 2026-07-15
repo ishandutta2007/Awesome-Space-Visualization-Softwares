@@ -12,9 +12,14 @@ A curated guide to leading **space visualization softwares** (like Celestia, Ope
 Popular tools for rendering the universe, solar systems, and mission data with high fidelity.
 
 ### Leading Options
-- **[Celestia](https://celestia.space)** — Free space simulation for exploring the universe in real-time 3D.
-- **[OpenSpace](https://openspaceproject.com)** — Open-source interactive astrovisualization for education and research.
-- Others: NASA Eyes, Stellarium (planetarium), and various commercial planetarium software.
+
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[Celestia](https://celestia.space)** | Free space simulation for exploring the universe in real-time 3D. | Free (Open Source) | No limit (fully free) |
+| **[OpenSpace](https://openspaceproject.com)** | Open-source interactive astrovisualization for education and research. | Free (Open Source) | No limit (fully free) |
+| **NASA Eyes** | Simulation of our solar system, earth, and exoplanets | Free | No limit (fully free) |
+| **Stellarium** | Realistic sky simulator and planetarium | Free (Open Source) | No limit (fully free) |
+| Commercial planetarium software | Various closed-source solutions | Varies (Paid) | N/A |
 
 These tools enable immersive experiences of space environments, spacecraft trajectories, and astronomical phenomena.
 
