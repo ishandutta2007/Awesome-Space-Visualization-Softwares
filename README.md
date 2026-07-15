@@ -2,8 +2,8 @@
   <img src="./assets/banner.svg" alt="Awesome Space Visualization Softwares Banner" width="100%">
 </div>
 
-# Awesome-Space-Visualization-Softwares
-## Top Space Visualization Softwares & Open-Source Alternatives
+# 🌌 Awesome-Space-Visualization-Softwares
+## 🔭 Top Space Visualization Softwares & Open-Source Alternatives
 
 A curated guide to leading **space visualization softwares** (like Celestia, OpenSpace, etc.) and their **open-source/self-hosted equivalents**. 
 
@@ -11,11 +11,11 @@ A curated guide to leading **space visualization softwares** (like Celestia, Ope
 
 ---
 
-## SaaS / Cloud-Hosted or Commercial Space Visualization Software
+## ☁️ SaaS / Cloud-Hosted or Commercial Space Visualization Software
 
 Popular tools for rendering the universe, solar systems, and mission data with high fidelity.
 
-### Leading Options
+### 🏆 Leading Options
 
 | Product | Description | Pricing | Free Tier Limit | Company Size / Valuation |
 |---------|-------------|---------|-----------------|--------------------------|
@@ -33,7 +33,7 @@ These tools enable immersive experiences of space environments, spacecraft traje
 
 The space visualization domain is dominated by excellent open-source projects with strong communities.
 
-### Open-Source Projects
+## 🚀 Open-Source Projects
 
 - **[Blender](https://blender.org)** <a href="https://github.com/blender/blender/stargazers"><img src="https://img.shields.io/github/stars/blender/blender?style=social&color=white" alt="GitHub stars"></a> — with astronomy add-ons for custom space visualizations.
 - **[Stellarium](https://stellarium.org)** <a href="https://github.com/Stellarium/stellarium/stargazers"><img src="https://img.shields.io/github/stars/Stellarium/stellarium?style=social&color=white" alt="GitHub stars"></a> — Realistic sky simulator and planetarium with accurate rendering.
@@ -48,7 +48,7 @@ The space visualization domain is dominated by excellent open-source projects wi
 
 ---
 
-## Comparison
+## ⚖️ Comparison
 
 | Aspect              | Commercial/Established Tools          | Open-Source Ecosystem                      |
 |---------------------|---------------------------------------|--------------------------------------------|
@@ -60,7 +60,7 @@ The space visualization domain is dominated by excellent open-source projects wi
 
 ---
 
-## Getting Started
+## 🏁 Getting Started
 
 1. Download **Celestia** or **OpenSpace** for immediate exploration.
 2. Install community add-ons for more bodies and missions.
@@ -68,7 +68,7 @@ The space visualization domain is dominated by excellent open-source projects wi
 4. Contribute observations or models to the community.
 5. For development, explore source code on GitHub.
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to submit PRs to expand this list with more projects, tools, or comparisons!
 
