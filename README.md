@@ -29,19 +29,15 @@ These tools enable immersive experiences of space environments, spacecraft traje
 
 The space visualization domain is dominated by excellent open-source projects with strong communities.
 
-### Featured Projects
+### Open-Source Projects
 
-- **[Celestia](https://github.com/CelestiaProject/Celestia)** — Feature-rich 3D space simulator with extensive catalogs and add-ons.<grok-card data-id="a98327" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
-
-- **[OpenSpace](https://github.com/OpenSpace/OpenSpace)** — Scalable platform for astrovisualization, supporting NASA data and real-time missions.<grok-card data-id="48b2e4" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
-
-- **[Stellarium](https://stellarium.org)** — Realistic sky simulator and planetarium with accurate rendering.
-
-### Additional Open-Source Tools
-- **[Blender](https://blender.org)** with astronomy add-ons for custom space visualizations.
-- **[NASA WorldWind](https://worldwind.arc.nasa.gov)** — 3D virtual globe for geospatial and space data.
-- **[Unity/Unreal Engine** projects with space SDKs for interactive experiences.
-- **[KStars](https://edu.kde.org/kstars)** — Cross-platform desktop planetarium.
+- **[Blender](https://blender.org)** <a href="https://github.com/blender/blender/stargazers"><img src="https://img.shields.io/github/stars/blender/blender?style=social&color=white" alt="GitHub stars"></a> — with astronomy add-ons for custom space visualizations.
+- **[Stellarium](https://stellarium.org)** <a href="https://github.com/Stellarium/stellarium/stargazers"><img src="https://img.shields.io/github/stars/Stellarium/stellarium?style=social&color=white" alt="GitHub stars"></a> — Realistic sky simulator and planetarium with accurate rendering.
+- **[Celestia](https://github.com/CelestiaProject/Celestia)** <a href="https://github.com/CelestiaProject/Celestia/stargazers"><img src="https://img.shields.io/github/stars/CelestiaProject/Celestia?style=social&color=white" alt="GitHub stars"></a> — Feature-rich 3D space simulator with extensive catalogs and add-ons.<grok-card data-id="a98327" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[OpenSpace](https://github.com/OpenSpace/OpenSpace)** <a href="https://github.com/OpenSpace/OpenSpace/stargazers"><img src="https://img.shields.io/github/stars/OpenSpace/OpenSpace?style=social&color=white" alt="GitHub stars"></a> — Scalable platform for astrovisualization, supporting NASA data and real-time missions.<grok-card data-id="48b2e4" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[NASA WorldWind](https://worldwind.arc.nasa.gov)** <a href="https://github.com/NASAWorldWind/WebWorldWind/stargazers"><img src="https://img.shields.io/github/stars/NASAWorldWind/WebWorldWind?style=social&color=white" alt="GitHub stars"></a> — 3D virtual globe for geospatial and space data.
+- **[KStars](https://edu.kde.org/kstars)** <a href="https://github.com/KDE/kstars/stargazers"><img src="https://img.shields.io/github/stars/KDE/kstars?style=social&color=white" alt="GitHub stars"></a> — Cross-platform desktop planetarium.
+- **Unity/Unreal Engine** projects with space SDKs for interactive experiences.
 - Community-driven simulators and data visualizers on GitHub.
 
 **Tip**: **Celestia** and **OpenSpace** are the go-to open tools for immersive 3D space exploration. Extend with custom data sets.
