@@ -13,13 +13,13 @@ Popular tools for rendering the universe, solar systems, and mission data with h
 
 ### Leading Options
 
-| Product | Description | Pricing | Free Tier Limit |
-|---------|-------------|---------|-----------------|
-| **[Celestia](https://celestia.space)** | Free space simulation for exploring the universe in real-time 3D. | Free (Open Source) | No limit (fully free) |
-| **[OpenSpace](https://openspaceproject.com)** | Open-source interactive astrovisualization for education and research. | Free (Open Source) | No limit (fully free) |
-| **NASA Eyes** | Simulation of our solar system, earth, and exoplanets | Free | No limit (fully free) |
-| **Stellarium** | Realistic sky simulator and planetarium | Free (Open Source) | No limit (fully free) |
-| Commercial planetarium software | Various closed-source solutions | Varies (Paid) | N/A |
+| Product | Description | Pricing | Free Tier Limit | Company Size / Valuation |
+|---------|-------------|---------|-----------------|--------------------------|
+| **NASA Eyes** | Simulation of our solar system, earth, and exoplanets | Free | No limit (fully free) | ~$25B (NASA) |
+| Commercial planetarium software | Various closed-source solutions | Varies (Paid) | N/A | ~$50M |
+| **[OpenSpace](https://openspaceproject.com)** | Open-source interactive astrovisualization for education and research. | Free (Open Source) | No limit (fully free) | ~$1M |
+| **[Celestia](https://celestia.space)** | Free space simulation for exploring the universe in real-time 3D. | Free (Open Source) | No limit (fully free) | Community-driven |
+| **Stellarium** | Realistic sky simulator and planetarium | Free (Open Source) | No limit (fully free) | Community-driven |
 
 These tools enable immersive experiences of space environments, spacecraft trajectories, and astronomical phenomena.
 
