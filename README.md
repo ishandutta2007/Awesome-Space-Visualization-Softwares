@@ -5,9 +5,9 @@
 # 🌌 Awesome-Space-Visualization-Softwares
 ## 🔭 Top Space Visualization Softwares & Open-Source Alternatives
 
-A curated guide to leading **space visualization softwares** (like Celestia, OpenSpace, etc.) and their **open-source/self-hosted equivalents**. 
+A curated guide to the best **space visualization softwares**, **3D planetariums**, and **open-source astronomy tools** (like Celestia, OpenSpace, Stellarium, etc.) for astronomy education, planetary exploration, and scientific research. 
 
-**Open-source solutions are emphasized** for interactive 3D rendering, planetary exploration, and astronomical data visualization.
+**Discover top-rated open-source solutions** for interactive 3D rendering, universe simulations, and high-fidelity astronomical data visualization. Perfect for hobbyists, educators, and developers seeking the best alternatives to commercial space software.
 
 ---
 
